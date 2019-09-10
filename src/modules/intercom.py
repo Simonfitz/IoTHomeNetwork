@@ -1,0 +1,2 @@
+def handlerIntercom(data):
+    return
